@@ -1,0 +1,1 @@
+web: python 0_your_first_server/first_server.py
